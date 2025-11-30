@@ -1,6 +1,6 @@
 # Michael Stewart
 
-Security Administrator at Maricopa Community College District, where I manage cybersecurity operations across 10 campuses and the district office serving 150,000+ users.
+Information Security Administrator at Maricopa Community College District, where I manage cybersecurity operations across 10 campuses and the district office serving 150,000+ users.
 
 ## What I Work On
 
