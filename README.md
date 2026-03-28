@@ -1,6 +1,6 @@
 # Michael Stewart ◆ Detection Engineer
 
-Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading security initiatives for 150,000 users across 10 campuses at Maricopa Community College District.
+Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading security initiatives for ~150,000 users across the District Office and 10 campuses at Maricopa Community College District.
 
 ### What I Work On
 
@@ -29,7 +29,7 @@ Strategic Detection Engineer focused on architecting hypothesis driven threat de
 ### Certifications
 
 ◆ CompTIA Security+ (Active)
-◆ In Progress ◆ AWS Solutions Architect ◆ AWS Security Specialty ◆ CISSP
+◆ In Progress ◆ AWS Solutions Architect ◆ AWS Security Specialty ◆ CISSP ◆ OSCP+ 
 
 ---
 
