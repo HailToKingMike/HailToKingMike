@@ -1,34 +1,36 @@
-# Michael Stewart
+# Michael Stewart ◆ Detection Engineer
 
-Information Security Administrator at Maricopa Community College District, where I manage cybersecurity operations across 10 campuses and the district office serving 150,000+ users.
+Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading security initiatives for 150,000 users across 10 campuses at Maricopa Community College District.
 
-## What I Work On
+### What I Work On
 
-Enterprise security platforms including CrowdStrike Falcon, Cisco Umbrella, and Elastic SIEM. I build automation tools in Python and PowerShell to streamline security operations, lead infrastructure modernization projects, and develop incident response frameworks.
+◆ **Detection Engineering Library** ◆ A collection of 12 Sigma rules mapped to MITRE ATT&CK with 19 unique detection hypotheses.
+◆ **GitHub Actions CI/CD** ◆ Automated validation pipelines for rule syntax and multi backend compilation for Elastic and CrowdStrike.
+◆ **AWS Detection Architecture** ◆ Designing modular cloud environments for high fidelity telemetry and threat hunting labs.
+◆ **Python SecOps Automation** ◆ Developing custom tools for CrowdStrike API integration and enterprise policy auditing.
 
-## Projects
+### Technical Focus
 
-**security-automation-scripts** — Python tools for security platform API integration and policy management  
-**homelab-security-architecture** — Personal lab environment with Proxmox, pfSense, and AWS integration  
-**aws-security-terraform** — Infrastructure-as-code modules for AWS security services  
-**crowdstrike-incident-response** — Detection analysis and response workflow documentation
+◆ **Security Platforms** ◆ Elastic Security ◆ CrowdStrike Falcon ◆ Cisco Umbrella ◆ Tenable
+◆ **Cloud Infrastructure** ◆ AWS (VPC, IAM, S3, CloudWatch) ◆ Terraform ◆ Kubernetes ◆ Docker
+◆ **Languages & Automation** ◆ Python ◆ GitHub Actions ◆ PowerShell ◆ Bash
+◆ **Frameworks** ◆ MITRE ATT&CK ◆ Sigma Rules ◆ NIST CSF ◆ PCI DSS
 
-## Technical Focus
+### Current Projects
 
-Security platforms: CrowdStrike, Elastic Stack, Cisco Umbrella, Tenable  
-Cloud: AWS (Security Hub, GuardDuty, IAM)  
-Automation: Python, PowerShell, Bash, Terraform  
-Infrastructure: Kubernetes, Docker, Proxmox, Linux, Windows Server
+◆ Developing a FastAPI detection platform to automate alert triage and normalization.
+◆ Architecting Athena based CloudTrail queries for production level threat hunting.
+◆ Building a Jupyter notebook library for standardized incident response workflows.
 
-## Current
+### Professional Roots
 
-Pursuing AWS Solutions Architect certification. Building multi-account AWS architecture in my homelab.
+◆ **U.S. Navy Veteran** ◆ Aegis Computer Network Technician (ACNT) with a background in mission critical combat systems and Unix/Linux administration.
 
-## Certifications
+### Certifications
 
-CompTIA Security+ (active)  
-In progress: AWS Solutions Architect, AWS Security Specialty, OSCP+, CISSP
+◆ CompTIA Security+ (Active)
+◆ In Progress ◆ AWS Solutions Architect ◆ AWS Security Specialty ◆ CISSP
 
 ---
 
-[mfstewart.com](https://mfstewart.com) · [LinkedIn](https://linkedin.com/in/mfstewart)
+[mfstewart.com](https://mfstewart.com) ◆ [Connect on LinkedIn](https://www.linkedin.com/in/michael-stewart-cyber/)
