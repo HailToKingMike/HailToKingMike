@@ -1,7 +1,7 @@
 # Michael Stewart ◆ Detection Engineer
 ### The King of Detections
 
-Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading security initiatives for 150,000 users across the District Office and 10 campuses at Maricopa Community College District.
+Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading security initiatives for ~150,000 users across the District Office and 10 campuses at Maricopa Community College District.
 
 ### What I Work On
 
