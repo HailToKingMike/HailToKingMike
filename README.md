@@ -1,7 +1,7 @@
 # Michael Stewart ◆ Detection Engineer
 ### The King of Detections
 
-Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading security initiatives for ~150,000 users across the District Office and multiple community colleges within the district. Founder of **Obsidian Line LLC**, building **Echelon** — a Detection Engineering as a Service (DEaaS) platform for higher education.
+Strategic Detection Engineer focused on architecting hypothesis driven threat detection platforms at scale. Currently leading detection engineering and security operations for a large-scale higher education environment serving 150,000+ users across multiple campuses. Founder of **Obsidian Line LLC**, building **Echelon** — a Detection Engineering as a Service (DEaaS) platform for higher education.
 
 ### What I Work On
 
