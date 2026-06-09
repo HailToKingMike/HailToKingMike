@@ -13,3 +13,7 @@ Policy for any coding agent or contributor working in this repository.
 - **DLP gate required.** A DLP pre-commit hook blocks internal IP ranges,
   hardware/vehicle nicknames, and personal-context terms. Do not bypass it;
   sanitize all public-facing artifacts before push.
+- **Never read secret-bearing files.** `.env`, credstore contents, `*.key`,
+  `*.pem`, and age/SSH identity files are off-limits to read/grep/cat/echo/print
+  for any agent or tool — reference them by name and path only. A leaked secret
+  value cannot be un-leaked by a hook; this rule is the prevention.
